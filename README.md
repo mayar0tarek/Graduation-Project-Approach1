@@ -3,6 +3,14 @@
 # Description:
 Our project aims to develop predictive models for predicting breast cancer recurrence using machine learning techniques. Breast cancer recurrence, where cancer returns after treatment, is a significant concern in patient care and requires timely intervention for better outcomes. Leveraging diverse datasets, including the Metabric Breast Cancer dataset, Duke University Breast Cancer dataset, and MSK Breast Cancer dataset, our models are trained to accurately predict the likelihood of breast cancer recurrence based on various features and characteristics.
 
+# Datasets:
+# Training Dataset:
+1. Metabric Breast Cancer dataset: https://www.kaggle.com/datasets/gunesevitan/breast-cancer-metabric
+2. Duke University Breast Cancer dataset: https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=70226903
+3. MSK Breast Cancer dataset: https://www.cbioportal.org/study/clinicalData?id=breast_msk_2018
+# Validation Dataset:
+Real patient data from Baheya hospital
+
 # Requirements:
 - Python 3.x
 - pandas
@@ -18,13 +26,9 @@ Ensure you have Python 3.x installed on your system.
 ```
 
 # Usage:
+1. Clone or download the project repository to your local machine.
+2. Install the required dependencies listed in the requirements.
+3. Run the provided notebook `Final_Recurrence_Approach1/` in your preferred environment (e.g., Google Colab or Jupyter Notebook).
+4. Follow the instructions in the notebook to load the datasets, preprocess the data, train the models, and evaluate their performance in predicting breast cancer recurrence.
 
-
-# Datasets:
-# Training Dataset:
-1. Metabric Breast Cancer dataset: https://www.kaggle.com/datasets/gunesevitan/breast-cancer-metabric
-2. Duke University Breast Cancer dataset: https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=70226903
-3. MSK Breast Cancer dataset: https://www.cbioportal.org/study/clinicalData?id=breast_msk_2018
-# Validation Dataset:
-Real patient data from Baheya hospital
 
