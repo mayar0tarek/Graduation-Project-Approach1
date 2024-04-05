@@ -1,15 +1,15 @@
 # Project Title: AI-Enhanced Breast Cancer Recurrence Prediction, Metastasis Localization, and Image Interpretation: A Multi-Modal analysis
 
 # Description:
-
+Our project aims to develop predictive models for predicting breast cancer recurrence using machine learning techniques. Breast cancer recurrence, where cancer returns after treatment, is a significant concern in patient care and requires timely intervention for better outcomes. Leveraging diverse datasets, including the Metabric Breast Cancer dataset, Duke University Breast Cancer dataset, and MSK Breast Cancer dataset, our models are trained to accurately predict the likelihood of breast cancer recurrence based on various features and characteristics.
 
 # Requirements:
-1. Python 3.x
-2. pandas
-3. matplotlib
-4. seaborn
-5. scikit-learn
-6. Google Colab (for running the code in the provided notebook)
+- Python 3.x
+- pandas
+- matplotlib
+- seaborn
+- scikit-learn
+- Google Colab (for running the code in the provided notebook)
 
 # Installation:
 Make sure you have Python 3.x installed on your system.
@@ -17,10 +17,7 @@ Install the required Python libraries using pip:
 pip install pandas matplotlib seaborn scikit-learn
 
 # Usage:
-Open the provided notebook file `notebooks/` using Google Colab or Jupyter Notebook.
-Mount Google Drive to access the datasets stored in '/content/drive'.
-Execute the code cells sequentially to load the datasets, preprocess the data, train the Models, test and validate their performance.
-Analyze the results obtained from the models evaluation metrics, such as accuracy, precision, recall, and F1-score.
+
 
 # Datasets:
 # Training Dataset:
