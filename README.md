@@ -11,9 +11,9 @@ Our project aims to develop predictive models for predicting breast cancer recur
 - scikit-learn
 - Google Colab (for running the code in the provided notebook)
 
-# Installation:
-Make sure you have Python 3.x installed on your system.
-Install the required Python libraries using pip:
+**Installation:**
+Ensure you have Python 3.x installed on your system.
+```bash
 pip install pandas matplotlib seaborn scikit-learn
 
 # Usage:
