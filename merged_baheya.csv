@@ -1,0 +1,376 @@
+Menopausal Status,Tumor Size,Lymph Node Status,Tumor Grade,Histological Type,ER,PR,HER2,Tumor Location,Overall Survival Status (Month),Overall Survival Status,Recurrence Free Status (Month),Recurrence Free Status
+Post,1,0,1,Breast Invasive Lobular Carcinoma,Positive,Positive,Negative,Left,48.0,Living,48.0,Not Recurred
+Post,4,1,2,Breast Invasive Ductal Carcinoma,Positive,Negative,Negative,Left,76.0,Living,76.0,Recurred
+Post,2,2,3,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Right,47.0,Living,47.0,Not Recurred
+Post,1,0,3,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Left,69.0,Living,17.0,Recurred
+Pre,2,1,3,Breast Invasive Ductal Carcinoma,Negative,Negative,Negative,Right,40.0,Deceased,18.0,Recurred
+Post,1,0,1,Breast Mixed Ductal and Lobular Carcinoma,Positive,Positive,Negative,Left,43.0,Living,43.0,Not Recurred
+Post,4,3,2,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Right,47.0,Living,47.0,Not Recurred
+Pre,1,0,2,Breast Invasive Mixed Mucinous Carcinoma,Positive,Positive,Negative,Left,57.0,Living,34.0,Recurred
+Post,2,0,2,Breast Invasive Ductal Carcinoma,Negative,Negative,Negative,Right,58.0,Living,9.0,Recurred
+Post,4,1,3,Breast Invasive Lobular Carcinoma,Positive,Positive,Negative,Right,28.0,Deceased,15.0,Recurred
+Post,4,1,2,Breast,Negative,Positive,Negative,Right,36.0,Deceased,7.0,Recurred
+Pre,4,1,2,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Left,39.0,Living,39.0,Not Recurred
+Post,2,0,3,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Right,47.0,Living,47.0,Not Recurred
+Post,1,0,2,Breast Invasive Mixed Mucinous Carcinoma,Positive,Positive,Negative,Right,63.0,Living,36.0,Recurred
+Pre,1,1,2,Breast Invasive Ductal Carcinoma,Positive,Negative,Negative,Right,47.0,Living,47.0,Not Recurred
+Post,3,1,3,Breast Mixed Ductal and Lobular Carcinoma,Positive,Positive,Negative,Left,50.0,Living,50.0,Not Recurred
+Pre,3,0,2,Breast Mixed Ductal and Lobular Carcinoma,Negative,Negative,Negative,Right,95.0,Living,94.0,Recurred
+Post,4,1,2,Breast Invasive Ductal Carcinoma,Negative,Positive,Negative,Right,24.0,Living,14.0,Recurred
+Pre,2,1,3,Breast Invasive Ductal Carcinoma,Negative,Positive,Negative,Left,31.0,Deceased,14.0,Recurred
+Post,4,1,2,Breast Invasive Ductal Carcinoma,Positive,Positive,Positive,Right,33.0,Living,33.0,Not Recurred
+Post,2,0,2,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Right,50.3152709359606,Living,11.0,Recurred
+Post,1,0,2,Breast Mixed Ductal and Lobular Carcinoma,Positive,Positive,Negative,Left,45.0,Living,45.0,Not Recurred
+Pre,1,0,2,Breast Mixed Ductal and Lobular Carcinoma,Positive,Positive,Negative,Right,48.0,Living,48.0,Not Recurred
+Post,2,0,1,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Right,47.0,Living,47.0,Not Recurred
+Pre,1,3,2,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Left,52.0,Living,52.0,Not Recurred
+Post,1,1,2,Breast Invasive Ductal Carcinoma,Positive,Negative,Negative,Left,60.0,Living,22.0,Recurred
+Pre,1,0,1,Breast Invasive Lobular Carcinoma,Positive,Positive,Negative,Right,44.0,Living,44.0,Not Recurred
+Pre,2,1,2,Breast Invasive Mixed Mucinous Carcinoma,Positive,Positive,Negative,Right,48.0,Living,48.0,Not Recurred
+Pre,2,1,2,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Right,34.0,Living,34.0,Not Recurred
+Pre,4,3,2,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Left,58.0,Living,29.0,Recurred
+Post,3,-1,2,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Left,50.3152709359606,Deceased,36.0,Recurred
+Post,4,0,2,Breast Invasive Lobular Carcinoma,Positive,Positive,Negative,Right,50.0,Living,50.0,Not Recurred
+Pre,4,1,3,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Right,15.0,Deceased,6.0,Recurred
+Post,3,0,2,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Left,31.0,Living,10.0,Recurred
+Post,2,0,2,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Right,65.0,Living,63.0,Recurred
+Pre,2,0,2,Breast Invasive Lobular Carcinoma,Positive,Positive,Negative,Left,37.0,Living,2.0,Recurred
+Post,4,1,2,Breast Invasive Mixed Mucinous Carcinoma,Positive,Positive,Negative,Left,21.0,Living,7.0,Recurred
+Pre,3,2,3,Breast Invasive Ductal Carcinoma,Negative,Positive,Negative,Right,23.0,Living,6.0,Recurred
+Pre,4,1,2,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Left,47.0,Deceased,43.0,Recurred
+Pre,3,1,3,Breast Invasive Ductal Carcinoma,Negative,Positive,Negative,Left,33.0,Living,33.0,Not Recurred
+Pre,2,0,1,Invasive Breast Carcinoma,Negative,Negative,Negative,Right,47.0,Living,47.0,Not Recurred
+Pre,2,1,2,Breast Invasive Ductal Carcinoma,Negative,Positive,Negative,Right,29.0,Living,22.0,Recurred
+Post,3,3,2,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Right,49.0,Living,49.0,Not Recurred
+Post,1,0,3,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Left,49.0,Living,49.0,Not Recurred
+Post,1,0,1,Breast Mixed Ductal and Lobular Carcinoma,Positive,Positive,Negative,Right,53.0,Living,53.0,Not Recurred
+Pre,2,1,2,Breast Invasive Lobular Carcinoma,Positive,Positive,Negative,Left,63.0,Living,7.0,Recurred
+Post,2,0,2,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Right,40.0,Living,40.0,Not Recurred
+Post,2,1,2,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Left,60.0,Deceased,58.0,Recurred
+Post,1,0,2,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Left,45.0,Living,45.0,Not Recurred
+Post,2,0,3,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Right,49.0,Living,49.0,Not Recurred
+Pre,2,0,1,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Right,45.0,Living,45.0,Not Recurred
+Post,1,0,2,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Right,45.0,Living,45.0,Not Recurred
+Pre,4,3,3,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Left,46.0,Living,7.0,Recurred
+Pre,2,1,3,Breast Invasive Ductal Carcinoma,Negative,Positive,Negative,Right,47.0,Living,47.0,Not Recurred
+Pre,2,0,2,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Right,29.0,Living,29.0,Not Recurred
+Post,3,3,3,Breast Invasive Ductal Carcinoma,Negative,Negative,Negative,Left,50.3152709359606,Living,18.0,Recurred
+Pre,1,1,3,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Left,43.0,Living,26.0,Recurred
+Post,2,2,3,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Right,91.0,Living,90.0,Recurred
+Post,2,1,2,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Left,30.0,Living,16.0,Recurred
+Pre,3,1,3,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Left,47.0,Living,47.0,Not Recurred
+Post,2,0,3,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Left,98.0,Living,91.0,Recurred
+Post,4,2,2,Breast Invasive Mixed Mucinous Carcinoma,Positive,Positive,Negative,Left,33.0,Living,32.38725490196079,Recurred
+Post,4,1,3,Breast Mixed Ductal and Lobular Carcinoma,Positive,Positive,Negative,Left,31.0,Living,31.0,Not Recurred
+Pre,1,1,3,Breast Invasive Ductal Carcinoma,Positive,Positive,Positive,Right,29.0,Living,29.0,Not Recurred
+Post,4,3,2,Breast Invasive Ductal Carcinoma,Negative,Positive,Negative,Right,25.0,Living,14.0,Recurred
+Pre,2,0,3,Breast Invasive Ductal Carcinoma,Negative,Negative,Positive,Right,84.0,Living,65.0,Recurred
+Post,-1,0,3,Breast,Negative,Negative,Negative,Left,37.0,Deceased,18.0,Recurred
+Post,2,0,1,Invasive Breast Carcinoma,Positive,Positive,Negative,Left,35.0,Living,35.0,Not Recurred
+Post,2,1,2,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Left,92.0,Living,92.0,Recurred
+Post,3,2,3,Breast Invasive Ductal Carcinoma,Negative,Positive,Negative,Right,14.0,Deceased,5.0,Recurred
+Pre,1,1,2,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Left,49.0,Living,49.0,Not Recurred
+Post,2,1,1,Breast Invasive Ductal Carcinoma,Positive,Negative,Negative,Right,45.0,Living,45.0,Not Recurred
+Post,1,0,2,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Right,47.0,Living,47.0,Not Recurred
+Post,2,1,3,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Left,30.0,Living,11.0,Recurred
+Post,3,0,2,Breast Invasive Lobular Carcinoma,Positive,Negative,Positive,Right,43.0,Living,60.0,Recurred
+Post,2,1,2,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Left,50.0,Living,50.0,Not Recurred
+Pre,1,1,2,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Left,48.0,Living,48.0,Not Recurred
+Post,2,1,2,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Left,29.0,Living,17.0,Recurred
+Pre,1,1,2,Breast Invasive Ductal Carcinoma,Negative,Negative,Negative,Left,72.0,Living,38.0,Recurred
+Post,1,1,2,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Right,47.0,Living,47.0,Not Recurred
+Post,2,1,2,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Left,49.0,Living,49.0,Not Recurred
+Pre,3,1,2,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Right,55.0,Living,55.0,Not Recurred
+Post,-1,1,3,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Left,57.0,Living,54.0,Recurred
+Post,1,1,3,Breast Invasive Ductal Carcinoma,Positive,Negative,Negative,Right,50.0,Living,50.0,Not Recurred
+Post,2,0,2,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Left,50.0,Living,50.0,Not Recurred
+Post,1,1,2,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Left,49.0,Living,49.0,Not Recurred
+Pre,2,0,2,Breast Invasive Ductal Carcinoma,Negative,Negative,Positive,Right,70.0,Living,63.0,Recurred
+Pre,3,1,2,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Left,32.0,Deceased,26.0,Recurred
+Post,3,0,2,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Right,47.0,Living,47.0,Not Recurred
+Post,2,0,3,Breast Invasive Ductal Carcinoma,Positive,Negative,Negative,Left,25.0,Living,25.0,Not Recurred
+Pre,1,1,2,Breast Invasive Mixed Mucinous Carcinoma,Positive,Positive,Negative,Right,49.0,Living,49.0,Not Recurred
+Post,2,1,3,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Left,34.0,Living,33.0,Recurred
+Pre,2,1,2,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Right,8.0,Living,8.0,Not Recurred
+Post,-1,1,3,Breast Invasive Ductal Carcinoma,Positive,Positive,Positive,Right,50.0,Deceased,10.0,Recurred
+Pre,3,2,3,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Right,33.0,Deceased,20.0,Recurred
+Pre,1,0,1,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Right,47.0,Living,47.0,Not Recurred
+Post,3,1,2,Breast Invasive Mixed Mucinous Carcinoma,Positive,Positive,Negative,Right,67.0,Living,56.0,Recurred
+Post,1,2,2,Breast Invasive Ductal Carcinoma,Negative,Positive,Negative,Left,44.0,Living,44.0,Not Recurred
+Post,4,2,3,Invasive Breast Carcinoma,Negative,Positive,Negative,Right,55.0,Living,22.0,Recurred
+Post,2,1,2,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Left,47.0,Living,47.0,Not Recurred
+Pre,1,0,3,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Left,49.0,Living,49.0,Not Recurred
+Post,2,2,2,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Right,51.0,Living,51.0,Not Recurred
+Post,4,1,3,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Left,49.0,Living,49.0,Not Recurred
+Pre,2,-1,2,Breast Invasive Mixed Mucinous Carcinoma,Positive,Positive,Negative,Right,89.0,Living,15.0,Recurred
+Post,1,0,3,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Right,115.0,Living,96.0,Recurred
+Post,2,0,3,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Left,90.0,Living,46.0,Recurred
+Post,2,0,3,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Right,20.0,Living,20.0,Not Recurred
+Pre,3,3,2,Breast Invasive Lobular Carcinoma,Positive,Positive,Negative,Right,97.0,Living,95.0,Recurred
+Pre,2,3,2,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Left,22.0,Living,22.0,Not Recurred
+Post,3,0,2,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Right,61.0,Deceased,57.0,Recurred
+Pre,4,3,2,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Right,27.0,Living,19.0,Recurred
+Pre,3,0,3,Breast Invasive Ductal Carcinoma,Negative,Negative,Negative,Right,25.0,Living,22.0,Recurred
+Pre,3,0,2,Breast Invasive Ductal Carcinoma,Negative,Negative,Negative,Left,97.0,Living,90.0,Recurred
+Pre,3,0,2,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Left,29.0,Living,29.0,Not Recurred
+Post,4,1,2,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Right,49.0,Living,49.0,Not Recurred
+Pre,4,2,3,Breast Invasive Ductal Carcinoma,Negative,Positive,Negative,Right,16.0,Living,10.0,Recurred
+Post,4,2,3,Breast Invasive Ductal Carcinoma,Negative,Negative,Negative,Left,20.0,Deceased,15.0,Recurred
+Pre,3,1,2,Breast Invasive Lobular Carcinoma,Positive,Positive,Negative,Right,45.0,Living,45.0,Not Recurred
+Pre,3,0,2,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Left,48.0,Living,30.0,Recurred
+Post,2,1,2,Breast Invasive Lobular Carcinoma,Positive,Positive,Negative,Right,45.0,Living,45.0,Not Recurred
+Post,4,1,3,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Right,40.0,Deceased,35.0,Recurred
+Pre,4,1,2,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Right,46.0,Living,46.0,Not Recurred
+Pre,4,3,3,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Left,12.0,Living,10.0,Recurred
+Post,3,3,2,Breast Invasive Ductal Carcinoma,Negative,Negative,Negative,Right,1.0,Deceased,9.0,Recurred
+Post,1,0,1,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Left,46.0,Living,46.0,Not Recurred
+Post,1,0,3,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Right,47.0,Living,47.0,Not Recurred
+Post,2,1,2,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Right,46.0,Living,46.0,Not Recurred
+Post,2,3,3,Breast Invasive Lobular Carcinoma,Positive,Positive,Negative,Left,73.0,Living,43.0,Recurred
+Post,2,1,2,Breast Invasive Lobular Carcinoma,Positive,Positive,Positive,Left,40.0,Living,40.0,Not Recurred
+Pre,4,2,2,Breast Invasive Ductal Carcinoma,Negative,Negative,Positive,Right,28.0,Deceased,21.0,Recurred
+Pre,1,0,2,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Left,61.0,Living,24.0,Recurred
+Pre,3,1,2,Breast Mixed Ductal and Lobular Carcinoma,Positive,Positive,Negative,Right,34.0,Living,34.0,Not Recurred
+Post,2,1,3,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Right,34.0,Living,20.0,Recurred
+Pre,3,0,3,Invasive Breast Carcinoma,Negative,Positive,Negative,Right,33.0,Living,33.0,Not Recurred
+Pre,4,1,2,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Right,47.0,Living,47.0,Not Recurred
+Post,3,1,2,Breast Invasive Lobular Carcinoma,Negative,Positive,Negative,Left,57.0,Living,51.0,Recurred
+Post,2,0,2,Breast Invasive Ductal Carcinoma,Negative,Positive,Negative,Right,44.0,Living,44.0,Not Recurred
+Post,1,0,2,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Right,37.0,Deceased,21.0,Recurred
+Post,3,1,3,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Left,33.0,Living,23.0,Recurred
+Pre,1,3,2,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Right,19.0,Living,18.0,Recurred
+Post,2,1,2,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Left,26.0,Living,12.0,Recurred
+Pre,2,0,2,Invasive Breast Carcinoma,Positive,Negative,Positive,Right,46.0,Living,46.0,Not Recurred
+Post,2,0,2,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Left,47.0,Living,47.0,Not Recurred
+Post,3,2,3,Invasive Breast Carcinoma,Negative,Negative,Negative,Left,25.0,Living,5.0,Recurred
+Post,1,3,2,Breast Invasive Ductal Carcinoma,Positive,Negative,Negative,Right,44.0,Living,44.0,Not Recurred
+Pre,1,0,1,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Right,49.0,Living,49.0,Not Recurred
+Pre,3,0,3,Breast Invasive Ductal Carcinoma,Negative,Positive,Negative,Right,42.0,Living,32.38725490196079,Recurred
+Post,2,1,2,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Right,47.0,Living,47.0,Not Recurred
+Post,3,0,2,Breast Invasive Lobular Carcinoma,Positive,Negative,Negative,Right,50.0,Living,27.0,Recurred
+Post,2,0,2,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Right,36.0,Living,29.0,Recurred
+Pre,2,1,3,Breast Invasive Ductal Carcinoma,Negative,Positive,Negative,Left,32.0,Living,32.38725490196079,Recurred
+Pre,2,-1,3,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Right,18.0,Living,5.0,Recurred
+Post,1,0,1,Breast Invasive Lobular Carcinoma,Positive,Positive,Negative,Left,50.0,Living,50.0,Not Recurred
+Pre,2,1,1,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Right,45.0,Living,45.0,Not Recurred
+Post,2,0,1,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Left,50.0,Living,50.0,Not Recurred
+Pre,4,1,3,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Right,48.0,Living,48.0,Not Recurred
+Post,1,0,2,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Right,38.0,Living,23.0,Recurred
+Post,4,1,2,Breast Mixed Ductal and Lobular Carcinoma,Positive,Positive,Negative,Left,50.0,Living,27.0,Recurred
+Post,1,0,2,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Right,36.0,Living,36.0,Not Recurred
+Post,3,1,2,Breast Invasive Lobular Carcinoma,Positive,Positive,Negative,Right,34.0,Deceased,14.0,Recurred
+Pre,1,0,2,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Left,44.0,Living,44.0,Not Recurred
+Pre,4,3,3,Breast Invasive Ductal Carcinoma,Negative,Positive,Negative,Left,16.0,Deceased,8.0,Recurred
+Post,2,0,2,Breast Invasive Ductal Carcinoma,Negative,Negative,Positive,Right,83.0,Living,50.0,Recurred
+Pre,4,2,2,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Right,47.0,Living,47.0,Not Recurred
+Post,4,0,2,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Right,44.0,Living,24.0,Recurred
+Pre,3,2,1,Breast Invasive Mixed Mucinous Carcinoma,Positive,Negative,Negative,Left,48.0,Living,48.0,Not Recurred
+Pre,3,2,3,Breast Invasive Ductal Carcinoma,Negative,Negative,Negative,Right,12.0,Deceased,12.0,Not Recurred
+Post,2,3,2,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Left,45.0,Living,45.0,Not Recurred
+Post,2,1,2,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Right,17.0,Living,17.0,Not Recurred
+Pre,2,1,2,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Left,97.0,Living,96.0,Recurred
+Pre,1,1,2,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Right,43.0,Living,43.0,Not Recurred
+Post,2,0,2,Breast Invasive Lobular Carcinoma,Positive,Positive,Negative,Left,96.0,Living,91.0,Recurred
+Pre,1,0,3,Breast Invasive Ductal Carcinoma,Positive,Negative,Negative,Right,70.0,Living,11.0,Recurred
+Pre,2,1,3,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Left,27.0,Living,20.0,Recurred
+Post,1,0,1,Breast Invasive Mixed Mucinous Carcinoma,Positive,Positive,Negative,Right,21.0,Living,21.0,Not Recurred
+Pre,3,1,3,Breast Invasive Ductal Carcinoma,Negative,Negative,Positive,Right,72.0,Living,38.0,Recurred
+Post,2,0,1,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Left,55.0,Living,55.0,Not Recurred
+Post,2,0,2,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Right,32.0,Living,32.0,Not Recurred
+Post,4,1,1,Breast Mixed Ductal and Lobular Carcinoma,Positive,Positive,Negative,Right,49.0,Living,49.0,Not Recurred
+Pre,4,1,3,Breast Invasive Ductal Carcinoma,Negative,Negative,Negative,Right,32.0,Deceased,4.0,Recurred
+Post,3,1,2,Breast Invasive Lobular Carcinoma,Positive,Positive,Negative,Right,73.0,Living,41.0,Recurred
+Pre,1,0,2,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Right,35.0,Living,35.0,Not Recurred
+Post,2,0,3,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Right,49.0,Living,49.0,Not Recurred
+Post,4,0,2,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Right,70.0,Living,22.0,Recurred
+Pre,3,1,2,Breast Invasive Ductal Carcinoma,Negative,Negative,Negative,Right,76.0,Living,73.0,Recurred
+Pre,4,2,3,Breast Invasive Ductal Carcinoma,Negative,Negative,Negative,Left,19.0,Living,17.0,Recurred
+Post,4,1,3,Breast Invasive Ductal Carcinoma,Negative,Positive,Negative,Right,43.0,Living,21.0,Recurred
+Post,2,1,2,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Right,47.0,Living,47.0,Not Recurred
+Post,2,2,2,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Right,20.0,Deceased,15.0,Recurred
+Post,4,1,2,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Left,49.0,Living,49.0,Not Recurred
+Pre,2,0,3,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Right,47.0,Living,47.0,Not Recurred
+Pre,2,1,1,Breast Mixed Ductal and Lobular Carcinoma,Positive,Positive,Negative,Left,31.0,Living,31.0,Not Recurred
+Post,4,1,2,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Left,40.0,Living,34.0,Recurred
+Pre,3,3,3,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Right,50.3152709359606,Living,72.0,Recurred
+Post,1,1,2,Breast Invasive Ductal Carcinoma,Positive,Negative,Negative,Right,32.0,Living,32.0,Not Recurred
+Post,2,1,3,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Left,47.0,Living,47.0,Not Recurred
+Pre,1,0,3,Breast Invasive Ductal Carcinoma,Negative,Negative,Negative,Left,44.0,Living,44.0,Not Recurred
+Pre,2,1,2,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Left,86.0,Living,85.0,Recurred
+Post,4,3,2,Breast Invasive Ductal Carcinoma,Negative,Negative,Negative,Right,17.0,Deceased,11.0,Recurred
+Pre,1,0,2,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Left,47.0,Living,47.0,Not Recurred
+Post,4,1,2,Breast Mixed Ductal and Lobular Carcinoma,Positive,Positive,Negative,Right,51.0,Living,51.0,Not Recurred
+Pre,1,1,2,Breast Invasive Mixed Mucinous Carcinoma,Positive,Positive,Negative,Right,47.0,Living,47.0,Not Recurred
+Pre,2,0,2,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Left,52.0,Living,25.0,Recurred
+Post,3,0,2,Breast Invasive Lobular Carcinoma,Positive,Positive,Negative,Left,15.0,Living,15.0,Not Recurred
+Pre,3,1,2,Breast Invasive Ductal Carcinoma,Negative,Negative,Negative,Left,57.0,Living,30.0,Recurred
+Pre,2,0,3,Breast Invasive Ductal Carcinoma,Negative,Positive,Negative,Right,49.0,Living,49.0,Not Recurred
+Pre,1,1,2,Breast Invasive Mixed Mucinous Carcinoma,Positive,Positive,Negative,Right,45.0,Living,45.0,Not Recurred
+Pre,3,0,2,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Left,26.0,Living,4.0,Recurred
+Pre,2,1,2,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Right,63.0,Living,32.38725490196079,Recurred
+Post,1,0,3,Breast Invasive Ductal Carcinoma,Positive,Negative,Negative,Left,33.0,Living,33.0,Not Recurred
+Post,2,0,2,Breast Invasive Ductal Carcinoma,Positive,Negative,Negative,Right,45.0,Living,45.0,Not Recurred
+Post,2,0,2,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Left,37.0,Living,25.0,Recurred
+Post,1,0,2,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Left,102.0,Living,85.0,Recurred
+Pre,2,1,2,Breast Invasive Lobular Carcinoma,Positive,Positive,Positive,Right,31.0,Living,31.0,Not Recurred
+Post,2,2,2,Breast Mixed Ductal and Lobular Carcinoma,Positive,Positive,Negative,Right,54.0,Living,41.0,Recurred
+Post,4,1,2,Breast Invasive Mixed Mucinous Carcinoma,Positive,Positive,Negative,Right,28.0,Living,28.0,Not Recurred
+Pre,2,3,2,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Right,96.0,Living,91.0,Recurred
+Pre,1,0,2,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Left,47.0,Living,47.0,Not Recurred
+Pre,2,2,3,Invasive Breast Carcinoma,Negative,Negative,Negative,Right,46.0,Living,46.0,Not Recurred
+Post,3,1,2,Breast Invasive Ductal Carcinoma,Negative,Negative,Negative,Right,48.0,Living,48.0,Not Recurred
+Pre,3,1,2,Breast Invasive Ductal Carcinoma,Negative,Negative,Negative,Left,17.0,Living,18.0,Recurred
+Post,1,0,2,Breast Invasive Ductal Carcinoma,Positive,Negative,Negative,Right,48.0,Deceased,22.0,Recurred
+Post,2,0,2,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Left,75.0,Living,72.0,Recurred
+Pre,4,0,2,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Right,47.0,Deceased,43.0,Recurred
+Pre,1,1,1,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Left,45.0,Living,45.0,Not Recurred
+Post,2,2,2,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Right,46.0,Living,46.0,Not Recurred
+Post,2,0,2,Breast Mixed Ductal and Lobular Carcinoma,Positive,Positive,Negative,Left,54.0,Living,54.0,Not Recurred
+Post,2,0,2,Breast Invasive Mixed Mucinous Carcinoma,Positive,Positive,Negative,Left,35.0,Living,35.0,Not Recurred
+Pre,4,1,1,Breast Invasive Mixed Mucinous Carcinoma,Positive,Positive,Negative,Right,50.0,Living,50.0,Not Recurred
+Pre,3,1,2,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Left,90.0,Living,48.0,Recurred
+Pre,1,1,1,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Right,51.0,Living,26.0,Recurred
+Pre,1,1,1,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Left,15.0,Living,15.0,Recurred
+Post,1,3,2,Invasive Breast Carcinoma,Positive,Positive,Negative,Right,95.0,Living,89.0,Recurred
+Pre,2,1,2,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Left,56.0,Living,13.0,Recurred
+Post,2,0,2,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Right,33.0,Living,33.0,Not Recurred
+Pre,1,0,2,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Right,34.0,Deceased,28.0,Recurred
+Post,2,1,2,Breast Mixed Ductal and Lobular Carcinoma,Positive,Positive,Negative,Left,47.0,Living,47.0,Not Recurred
+Pre,3,0,3,Invasive Breast Carcinoma,Positive,Positive,Negative,Right,52.0,Living,52.0,Not Recurred
+Post,1,0,2,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Left,41.0,Living,41.0,Not Recurred
+Post,2,0,2,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Right,45.0,Living,45.0,Not Recurred
+Pre,1,2,2,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Left,46.0,Living,46.0,Not Recurred
+Post,2,1,3,Invasive Breast Carcinoma,Negative,Positive,Negative,Left,49.0,Living,49.0,Not Recurred
+Pre,4,1,2,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Right,45.0,Living,45.0,Not Recurred
+Pre,4,3,3,Breast Invasive Ductal Carcinoma,Negative,Negative,Negative,Left,12.0,Living,5.0,Recurred
+Pre,4,3,3,Breast Invasive Ductal Carcinoma,Negative,Negative,Negative,Left,56.0,Living,35.0,Recurred
+Post,1,0,1,Breast Invasive Ductal Carcinoma,Positive,Negative,Negative,Left,55.0,Living,55.0,Not Recurred
+Pre,2,1,3,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Left,30.0,Living,14.0,Recurred
+Post,3,1,2,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Right,51.0,Living,22.0,Recurred
+Pre,3,1,1,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Right,45.0,Living,45.0,Not Recurred
+Post,2,1,2,Breast Mixed Ductal and Lobular Carcinoma,Positive,Positive,Negative,Right,50.0,Living,50.0,Not Recurred
+Pre,2,2,3,Breast Invasive Ductal Carcinoma,Positive,Negative,Negative,Left,25.0,Living,25.0,Recurred
+Post,3,1,1,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Left,60.0,Living,33.0,Recurred
+Post,4,1,2,Breast Invasive Mixed Mucinous Carcinoma,Positive,Positive,Negative,Left,55.0,Living,23.0,Recurred
+Pre,3,2,3,Breast Invasive Ductal Carcinoma,Positive,Positive,Positive,Left,10.0,Deceased,14.0,Recurred
+Post,2,0,2,Breast Invasive Ductal Carcinoma,Negative,Negative,Negative,Left,19.0,Living,19.0,Not Recurred
+Post,2,0,3,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Left,49.0,Living,49.0,Not Recurred
+Pre,3,2,2,Breast Invasive Lobular Carcinoma,Positive,Positive,Negative,Right,53.0,Deceased,27.0,Recurred
+Post,2,2,2,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Left,54.0,Living,54.0,Not Recurred
+Pre,1,0,2,Breast Mixed Ductal and Lobular Carcinoma,Positive,Positive,Negative,Right,42.0,Living,42.0,Not Recurred
+Pre,3,3,2,Breast Invasive Ductal Carcinoma,Negative,Negative,Positive,Left,96.0,Living,93.0,Recurred
+Post,1,3,2,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Left,48.0,Living,20.0,Recurred
+Post,2,2,1,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Right,48.0,Living,48.0,Not Recurred
+Pre,2,0,2,Breast Invasive Ductal Carcinoma,Negative,Positive,Negative,Left,47.0,Living,47.0,Not Recurred
+Pre,4,0,2,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Right,29.0,Deceased,23.0,Recurred
+Post,4,1,2,Breast Mixed Ductal and Lobular Carcinoma,Positive,Positive,Negative,Right,45.0,Living,45.0,Not Recurred
+Post,2,3,1,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Left,31.0,Living,15.0,Recurred
+Pre,4,1,3,Breast Invasive Ductal Carcinoma,Positive,Positive,Positive,Right,33.0,Living,33.0,Not Recurred
+Pre,2,0,2,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Left,48.0,Deceased,7.0,Recurred
+Post,3,0,1,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Left,49.0,Living,49.0,Not Recurred
+Post,2,1,2,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Left,46.0,Living,46.0,Not Recurred
+Pre,1,0,2,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Left,49.0,Living,49.0,Not Recurred
+Pre,3,0,3,Breast Invasive Ductal Carcinoma,Negative,Negative,Negative,Right,49.0,Living,49.0,Not Recurred
+Pre,2,1,3,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Left,36.0,Living,25.0,Recurred
+Post,2,3,3,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Left,71.0,Living,49.0,Recurred
+Post,2,0,2,Breast Invasive Ductal Carcinoma,Negative,Negative,Negative,Right,43.0,Deceased,21.0,Recurred
+Pre,4,1,2,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Left,35.0,Living,35.0,Not Recurred
+Post,2,2,1,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Left,12.0,Deceased,12.0,Not Recurred
+Post,4,1,1,Breast Mixed Ductal and Lobular Carcinoma,Positive,Positive,Negative,Left,48.0,Living,48.0,Not Recurred
+Post,4,3,3,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Left,17.0,Living,19.0,Recurred
+Post,1,0,3,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Right,54.0,Living,54.0,Not Recurred
+Post,2,0,1,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Right,47.0,Living,47.0,Not Recurred
+Post,2,2,2,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Left,56.0,Living,28.0,Recurred
+Pre,2,1,1,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Left,50.0,Living,50.0,Not Recurred
+Pre,3,3,2,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Left,34.0,Living,13.0,Recurred
+Pre,1,0,2,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Left,49.0,Living,49.0,Not Recurred
+Pre,2,0,2,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Right,48.0,Living,48.0,Not Recurred
+Pre,4,1,3,Breast Invasive Ductal Carcinoma,Negative,Positive,Negative,Left,47.0,Living,16.0,Recurred
+Post,1,0,1,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Right,43.0,Living,43.0,Not Recurred
+Post,4,2,3,Breast Invasive Ductal Carcinoma,Positive,Positive,Positive,Right,41.0,Living,19.0,Recurred
+Post,1,0,3,Breast Invasive Ductal Carcinoma,Negative,Positive,Negative,Right,14.0,Living,5.0,Recurred
+Pre,4,1,2,Breast Invasive Mixed Mucinous Carcinoma,Positive,Positive,Negative,Right,46.0,Living,46.0,Not Recurred
+Pre,4,1,2,Breast Invasive Lobular Carcinoma,Positive,Positive,Negative,Left,60.0,Living,52.0,Recurred
+Post,2,1,2,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Left,19.0,Living,0.0,Recurred
+Post,2,3,2,Breast Invasive Mixed Mucinous Carcinoma,Positive,Positive,Negative,Right,46.0,Living,46.0,Not Recurred
+Pre,2,1,2,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Left,46.0,Living,46.0,Not Recurred
+Post,4,0,1,Breast Invasive Lobular Carcinoma,Positive,Positive,Negative,Right,50.0,Living,50.0,Not Recurred
+Post,1,0,2,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Right,46.0,Living,46.0,Not Recurred
+Post,4,1,2,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Right,33.0,Living,17.0,Recurred
+Pre,4,3,2,Breast Invasive Mixed Mucinous Carcinoma,Positive,Positive,Negative,Left,42.0,Living,16.0,Recurred
+Post,2,0,2,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Right,46.0,Living,46.0,Not Recurred
+Post,4,2,1,Breast Invasive Lobular Carcinoma,Positive,Positive,Negative,Left,49.0,Living,49.0,Not Recurred
+Post,2,0,2,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Left,47.0,Living,47.0,Not Recurred
+Post,2,2,2,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Left,46.0,Living,46.0,Not Recurred
+Post,4,2,2,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Left,45.0,Living,15.0,Recurred
+Post,2,2,2,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Right,26.0,Living,26.0,Not Recurred
+Post,2,1,3,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Right,46.0,Living,46.0,Not Recurred
+Post,4,2,2,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Right,60.0,Living,8.0,Recurred
+Post,2,1,2,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Right,50.3152709359606,Living,62.0,Recurred
+Post,4,1,2,Breast Invasive Lobular Carcinoma,Positive,Positive,Negative,Right,18.0,Living,9.0,Recurred
+Post,2,0,2,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Right,50.0,Living,33.0,Recurred
+Post,2,1,2,Breast Invasive Ductal Carcinoma,Negative,Negative,Positive,Left,97.0,Living,94.0,Recurred
+Post,4,-1,2,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Left,24.0,Deceased,18.0,Recurred
+Post,2,3,3,Breast Invasive Ductal Carcinoma,Negative,Negative,Positive,Right,54.0,Deceased,39.0,Recurred
+Post,1,0,2,Breast Invasive Ductal Carcinoma,Negative,Positive,Negative,Left,48.0,Living,48.0,Not Recurred
+Pre,1,0,3,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Left,49.0,Living,49.0,Not Recurred
+Pre,2,0,3,Breast Invasive Ductal Carcinoma,Negative,Positive,Negative,Left,33.0,Living,13.0,Recurred
+Post,4,1,2,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Right,56.0,Living,50.0,Recurred
+Post,2,0,3,Breast Mixed Ductal and Lobular Carcinoma,Positive,Positive,Negative,Right,50.3152709359606,Living,96.0,Recurred
+Post,2,0,3,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Left,24.0,Living,18.0,Recurred
+Pre,2,1,3,Breast Invasive Ductal Carcinoma,Negative,Positive,Negative,Left,48.0,Living,48.0,Not Recurred
+Pre,4,-1,2,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Right,92.0,Living,91.0,Recurred
+Pre,4,1,2,Breast Invasive Ductal Carcinoma,Negative,Negative,Negative,Left,20.0,Deceased,5.0,Recurred
+Post,4,1,2,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Left,54.0,Living,54.0,Not Recurred
+Pre,2,0,2,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Left,6.0,Living,6.0,Not Recurred
+Pre,2,1,3,Breast Invasive Ductal Carcinoma,Negative,Positive,Negative,Left,7.0,Living,2.0,Recurred
+Post,1,0,2,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Right,51.0,Living,51.0,Not Recurred
+Post,2,3,2,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Right,39.0,Living,30.0,Recurred
+Pre,4,0,2,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Right,80.0,Living,19.0,Recurred
+Pre,4,-1,2,Breast Invasive Ductal Carcinoma,Negative,Negative,Negative,Left,54.0,Living,49.0,Recurred
+Pre,2,0,1,Breast Invasive Mixed Mucinous Carcinoma,Positive,Positive,Negative,Right,48.0,Living,48.0,Not Recurred
+Pre,1,0,2,Breast Invasive Ductal Carcinoma,Negative,Negative,Negative,Left,74.0,Living,30.0,Recurred
+Pre,2,-1,2,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Right,40.0,Living,52.0,Recurred
+Post,2,1,2,Breast Invasive Lobular Carcinoma,Positive,Positive,Negative,Left,27.0,Living,27.0,Not Recurred
+Pre,1,1,2,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Right,47.0,Living,47.0,Not Recurred
+Post,4,3,3,Breast Invasive Ductal Carcinoma,Negative,Positive,Negative,Left,42.0,Living,42.0,Not Recurred
+Post,2,1,3,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Left,15.0,Deceased,9.0,Recurred
+Post,2,1,2,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Right,94.0,Living,92.0,Recurred
+Post,2,0,3,Invasive Breast Carcinoma,Negative,Positive,Negative,Right,47.0,Living,32.38725490196079,Recurred
+Post,2,0,2,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Left,23.0,Living,9.0,Recurred
+Post,3,1,2,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Left,49.0,Living,49.0,Not Recurred
+Post,2,0,2,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Left,53.0,Living,53.0,Not Recurred
+Pre,2,2,3,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Left,50.0,Living,50.0,Not Recurred
+Pre,2,1,1,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Right,45.0,Living,45.0,Not Recurred
+Pre,3,1,2,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Left,47.0,Living,47.0,Not Recurred
+Pre,4,1,2,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Left,25.0,Living,16.0,Recurred
+Pre,2,1,2,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Right,48.0,Living,48.0,Not Recurred
+Pre,1,0,3,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Right,52.0,Living,52.0,Not Recurred
+Post,2,1,3,Breast Invasive Ductal Carcinoma,Positive,Negative,Positive,Left,50.0,Deceased,10.0,Recurred
+Post,2,1,2,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Left,32.0,Living,32.0,Not Recurred
+Post,2,0,2,Breast Invasive Ductal Carcinoma,Negative,Positive,Negative,Left,45.0,Living,45.0,Not Recurred
+Pre,2,1,2,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Right,47.0,Living,47.0,Not Recurred
+Post,4,2,2,Invasive Breast Carcinoma,Positive,Negative,Negative,Right,88.0,Living,57.0,Recurred
+Post,1,0,2,Breast Invasive Ductal Carcinoma,Negative,Positive,Negative,Left,48.0,Living,48.0,Not Recurred
+Pre,1,0,2,Breast Invasive Lobular Carcinoma,Positive,Positive,Negative,Right,44.0,Living,44.0,Not Recurred
+Post,2,0,2,Breast Invasive Ductal Carcinoma,Positive,Positive,Positive,Left,31.0,Living,31.0,Not Recurred
+Post,1,0,1,Breast Mixed Ductal and Lobular Carcinoma,Positive,Positive,Negative,Right,46.0,Living,46.0,Not Recurred
+Post,1,0,3,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Left,44.0,Living,44.0,Not Recurred
+Post,1,1,3,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Left,18.0,Deceased,9.0,Recurred
+Post,4,1,3,Invasive Breast Carcinoma,Negative,Negative,Negative,Right,9.0,Living,9.0,Not Recurred
+Post,1,0,2,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Left,44.0,Deceased,44.0,Not Recurred
+Pre,2,0,1,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Right,46.0,Living,46.0,Not Recurred
+Post,2,0,2,Breast Invasive Ductal Carcinoma,Negative,Positive,Negative,Left,58.0,Living,34.0,Recurred
+Post,2,0,2,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Left,29.0,Living,29.0,Not Recurred
+Post,2,0,2,Breast Mixed Ductal and Lobular Carcinoma,Positive,Positive,Negative,Left,36.0,Living,36.0,Not Recurred
+Pre,4,1,3,Breast Invasive Ductal Carcinoma,Negative,Positive,Negative,Left,29.0,Living,29.0,Not Recurred
+Post,2,0,1,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Left,46.0,Living,46.0,Not Recurred
+Post,2,1,2,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Left,44.0,Living,44.0,Not Recurred
+Post,4,1,1,Breast Invasive Lobular Carcinoma,Positive,Positive,Negative,Right,45.0,Living,45.0,Not Recurred
+Pre,1,2,2,Breast Mixed Ductal and Lobular Carcinoma,Positive,Positive,Negative,Right,27.0,Living,27.0,Not Recurred
+Post,2,2,2,Breast Mixed Ductal and Lobular Carcinoma,Negative,Positive,Positive,Right,31.0,Living,10.0,Recurred
+Post,1,1,2,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Left,48.0,Living,26.0,Recurred
+Post,2,1,2,Breast Invasive Lobular Carcinoma,Positive,Positive,Negative,Right,50.0,Living,50.0,Not Recurred
+Pre,4,1,2,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Left,29.0,Living,29.0,Not Recurred
+Pre,2,1,2,Invasive Breast Carcinoma,Negative,Positive,Negative,Left,45.0,Living,45.0,Not Recurred
+Post,4,1,2,Breast Invasive Ductal Carcinoma,Positive,Positive,Negative,Left,51.0,Living,32.38725490196079,Recurred
