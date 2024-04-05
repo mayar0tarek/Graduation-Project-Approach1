@@ -28,7 +28,9 @@ Ensure you have Python 3.x installed on your system.
 # Usage:
 1. Clone or download the project repository to your local machine.
 2. Install the required dependencies listed in the requirements.
-3. Run the provided notebook `Final_Recurrence_Approach1/` in your preferred environment (e.g., Google Colab or Jupyter Notebook).
+3. Run the provided notebook `Final_Recurrence_Approach1` in your preferred environment (e.g., Google Colab or Jupyter Notebook).
 4. Follow the instructions in the notebook to load the datasets, preprocess the data, train the models, and evaluate their performance in predicting breast cancer recurrence.
 
-
+# Note:
+- This code is provided as a first approach to the breast cancer prediction project. Further refinement and optimization may be required for deployment in a production environment.
+- Ensure compliance with data privacy regulations and ethical guidelines when working with sensitive medical data.
